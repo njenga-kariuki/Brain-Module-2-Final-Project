@@ -1,10 +1,14 @@
 # Brain
 
+A Rails social learning application for sharing books, podcasts, videos and articles, with accounts, follows, a personalized feed, comments and reactions.
+
+**2019 team capstone.** Preserved from the original Flatiron School implementation. The recorded demonstration below shows the project at the time; the original hosting and dependencies have not been revalidated. Seed profiles and posts are demonstration data.
+
 #### Molly Nemerever & Njenga Kariuki
 
 ###### Project completed as part of [Flatiron School](https://flatironschool.com/campuses/seattle/) curriculum.
 
-![project GIF](https://github.com/mollynemerever/Brain-Module-2-Final-Project/blob/master/ezgif.com-optimize.gif)
+![project GIF](ezgif.com-optimize.gif)
 
 ## Project FAQ
 #### 1. What is Brain?
@@ -16,9 +20,9 @@ After creating an account, users influence others by sharing posts that contain 
 #### 3. What is the customer problem we are solving?
 There is a gap between social media platforms and dedicated news and blog sites. Most content consumed on social media platforms does not contribute to personal growth. Even if you are someone who uses Twitter or Facebook for news, you likely find yourself drifting into topic areas you don’t really care about or filtering through ads and poorly curated suggestions. Brain provides a platform for consuming empowering content without the junk, leveraging the power of people who have or seek shared experiences and information.  
 
-## Access Instructions
-This project is hosted on Heroku and can be accessed here: https://guarded-coast-75303.herokuapp.com/brain/login
-Video demonstration: https://www.youtube.com/watch?v=GKgransM6uk&feature=youtu.be
+## Recorded demonstration
+
+[Watch the original project walkthrough](https://www.youtube.com/watch?v=GKgransM6uk).
 
 ## Project Requirements
 1.	Create a fully functioning website using Rails.
